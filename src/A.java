@@ -8,7 +8,7 @@ public class A
 		C c = new C();
 		c.sum(1,3);
 		
-
+		System.out.println("bye");
 		System.out.println("hi");
 	}	
 
